@@ -1,5 +1,5 @@
 ## 📝Problem Solving
 
-📌 [data structure](https://github.com/alsrud9909/Problem_Solving/tree/main/data_structure)
+📌 data structure
 
-📌 [algorithm](https://github.com/alsrud9909/Problem_Solving/tree/main/algorithm)
+📌 algorithm
